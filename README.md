@@ -3,10 +3,15 @@ for WordPress Create Rest API with EU Countries and Cities lists with latitude a
 
 ## instalation:
 1- Download latest release from https://github.com/akbarijedi/my_api/releases
+
 2- Go to your wordpress website admin panel and login
+
 3- Go to plugin installation and upload the zip file
+
 4- Activate the plugin
+
 5- Yuo must see the "myAPI" admin nemu
+
 
 ## Versions
 
