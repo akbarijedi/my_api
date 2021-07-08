@@ -1,5 +1,5 @@
 # MyApi
-EU Country & Cities with latitude and longitude WordPress API Enable
+Enable EU Countries & Cities with latitude and longitude in WordPress API 
 
 ## instalation:
 1- Download latest release from https://github.com/akbarijedi/my_api/releases
