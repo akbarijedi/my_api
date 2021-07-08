@@ -1,5 +1,5 @@
 # MyApi
-for WordPress Create Rest API with EU Countries and Cities lists with latitude and longitude
+EU Country & Cities with latitude and longitude WordPress API Enable
 
 ## instalation:
 1- Download latest release from https://github.com/akbarijedi/my_api/releases
@@ -10,10 +10,17 @@ for WordPress Create Rest API with EU Countries and Cities lists with latitude a
 
 4- Activate the plugin
 
-5- Yuo must see the "myAPI" admin nemu
+5- You must see the "MyAPI" admin nemu
+
+6- Go to Setting -> Permalink -> select one of them (Recommended : Month and name)
 
 
 ## Versions
+
+### Version 1.1.1 🥇
+- Add description and documentation in admin panel
+- Add Permalinks enabling attention to work the API
+- Add Link to github my-api Release
 
 ### Version 1.1.0 :
 - Add Admin panel menu
